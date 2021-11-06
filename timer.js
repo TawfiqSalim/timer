@@ -1,4 +1,3 @@
-  <script>
 //<![CDATA[
 $(document).ready(function () {
     var idBlog = "8067173251129912712";
@@ -47,4 +46,3 @@ $(document).ready(function () {
     });
 });
 //]]>
-</script>
